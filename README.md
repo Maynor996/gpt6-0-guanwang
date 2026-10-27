@@ -1,9 +1,10 @@
-# GPT6.0 / GPT-6 0 官网检索说明
+# GPT6.0官网怎么搜？空格与小数点
 
 中文说明页关键词：**gpt6 0官网**
 
 - GitHub Pages：https://maynor996.github.io/gpt6-0-guanwang/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：弄清gpt6 0官网检索写法差异，指向可信体验入口。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
